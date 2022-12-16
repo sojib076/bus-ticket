@@ -1,0 +1,37 @@
+// es6 javascipt queston 
+1 What are some of the features of ES6? 
+A  : There are many features of ES6. Some of them are: Block soppe, Arrow functions, Classes, Modules, Promises, Generators, etc.
+2 What is let and const? And how it differs from var? 
+A : Let and const area the new keywords used in es6 .  The var is hoisted on top  and it is a global variable. let is a block scoped variable and const is a constant variable. var can reassign but const and let cannot reassign. let value can be changed but const value cannot be changed.
+3 Define ECMAScript ?
+A: ECMAScript is a scripting language standerdized by Ecma international in ECMA-262 and ISO/IEC 16262. 
+It was created to standardize javascript and help the developers to implement javascript in different platforms and browsers.
+ 
+ 4 .Discuss spread operator in ES6?
+ A : spread operator is used to copy the array or the object and it is used to merge the arrays or objects.
+ 5 What are the template literals in ES6? ?
+ A : template literals are the string literals (``) that can used in ES6 . it is used for many purposes like multiline strings and dynamic strings.
+
+6 Discuss Destructuring Assignment in ES6?
+A :  Destructuring help us to extract the data from the array or object and assing to a variable. It is used to assign the values to the variables from the array or object.
+7 What are the default parameters?
+A : Default parameters are the parameters that are used to assign the default value to the function parameter if the value is not passed to the function.
+8 Define Map?
+A: Map is a function that is used to create a new array with the results of calling a function for every array element. 
+9 What is the difference between Map and Filter?
+A : The main difference between map and filter is that map returns the array with the same length as the original array and filter returns the array 
+that match the condition. 
+10 Explain Promises in ES6?
+A : Promises handel the asynchronous operations in javascript. it work seperate from the main thread and notifies the main thread when the operation is completed.
+11 Define Babel?
+A : Babel is a javascript compiler that is used to convert the es6 code to es5 code or lower version .  it convert code so that it can be run in the browser.
+12  What are the reasons for using arrow functions in ES6? 
+A : Arrow functions are used to write the function in a short way.
+it a very useful feature in ES6. it saves the time and it is easy to write. That is why it is used in ES6.
+13 What are the differences between arrow functions and regular functions?
+A : The main difference between arrow functions and regular functions is that arrow functions do not have their own this value.
+14  What is callback and callback hell in JavaScript?
+A : Callback is function that is passed as an argument to another function. Callback hell is the problem that occurs when we have multiple callbacks in a function.
+15 what you mean by llFEs?
+A : llFEs are the functions that are invoked immediately after they are defined. 
+it aslo called as self invoking functions. 
